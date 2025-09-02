@@ -71,6 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Reprendre un projet React : `npm i`
 
-## Installer JSON-SERVER : `npm i -g json-server`
+#### Installer JSON-SERVER : `npm i -g json-server`
 
-## Faire tourner le back : `json-server --watch src/assets/db.json --port 3004`
+#### Faire tourner le back : `json-server --watch src/assets/db.json --port 3004`
