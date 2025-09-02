@@ -27,6 +27,7 @@ const Blog = () => {
         content,
         date: Date.now(),
       });
+
       setError(false);
       setAuthor("");
       setContent("");
